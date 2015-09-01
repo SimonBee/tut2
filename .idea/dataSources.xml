@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1003790018">
+    <data-source source="LOCAL" name="tut2_development" uuid="61b8eb50-27c1-4f5b-88fd-5858c59729f5">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/tut2_development</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
